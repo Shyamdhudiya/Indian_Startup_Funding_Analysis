@@ -1,5 +1,7 @@
 # 💡 Data Analysis on Indian Startup Funding (2018–2021)
 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*I0pbJXG4v0fGGUlxAYIOng.jpeg" width="550">
+
 ## 📌 Project Overview
 
 This project explores Indian startup funding trends from 2018 to 2021 using multiple datasets. The objective is to clean, analyze, and visualize funding patterns based on various factors like company, sector, location, and funding amount to derive business insights.
